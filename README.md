@@ -1,8 +1,8 @@
-# MedGAN: AI-Powered X-ray Image Generator
+# MedAssist: AI-Powered X-ray Image Generator
 
 ## Project Overview
 
-MedGAN is an AI-driven solution that utilizes Generative Adversarial Networks (GANs) to generate diverse synthetic X-ray images. This project aims to address the challenge of limited access to diverse medical imaging data, enhancing diagnostic accuracy and improving healthcare outcomes.
+MedAssist is an AI-driven solution that utilizes Generative Adversarial Networks (GANs) to generate diverse synthetic X-ray images. This project aims to address the challenge of limited access to diverse medical imaging data, enhancing diagnostic accuracy and improving healthcare outcomes.
 
 ## Problem Statement
 
